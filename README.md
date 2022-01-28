@@ -1,5 +1,5 @@
 # Using CAST
-### Settup
+### Setup
  - Clone this repository
  - Install python3 (if you don't have it installed already)
  - Install clingo
